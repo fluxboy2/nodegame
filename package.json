@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Test game for now",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihearcolors",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
